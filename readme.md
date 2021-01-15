@@ -4,7 +4,7 @@
 - [SOP](https://farhad199.github.io/SOP/)
 - [GitHub](https://github.com/farhad199)
 - [certificat](https://github.com/farhad199/certificate/blob/main/WhatsApp%20Image%202020-11-04%20at%2022.49.53.jpeg)
-- [latex](تمرین لاتکس نظریه زبان.tex)
+- [latex](تمرین لاتکس نظریه زبان.pdf)
 -----------------
 > ارزیابی ها
 ## بخش عمومی 
